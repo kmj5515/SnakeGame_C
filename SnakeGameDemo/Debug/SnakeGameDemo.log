@@ -1,0 +1,6 @@
+﻿  SnakeGameDemo.cpp
+C:\Users\com\Desktop\SnakeGameDemo\SnakeGameDemo\SnakeGameDemo.cpp(41,18): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\com\Desktop\SnakeGameDemo\SnakeGameDemo\SnakeGameDemo.cpp(41,22): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\com\Desktop\SnakeGameDemo\SnakeGameDemo\SnakeGameDemo.cpp(148,6): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+C:\Users\com\Desktop\SnakeGameDemo\SnakeGameDemo\SnakeGameDemo.cpp(155,10): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  SnakeGameDemo.vcxproj -> C:\Users\com\Desktop\SnakeGameDemo\Debug\SnakeGameDemo.exe
